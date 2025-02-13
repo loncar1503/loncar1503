@@ -1,6 +1,7 @@
 ## Hi there 👋
-Hi! I'm a 4th-year student at the Faculty of Organizational Sciences with a growing interest in programming, particularly in backend technologies like .NET. I'm always eager to learn new things, adapt to new challenges, and open to all kinds of opportunities. 
-Organizational Sciences
+I am a fourth-year student at the Faculty of Organizational Sciences with a strong interest in computer science and programming. Over the past three years, through active involvement and leadership in a student IT organization, I have developed valuable skills in teamwork, leadership, and adaptability. This experience has allowed me to work in dynamic environments, manage teams, and drive projects forward.
+
+I am ambitious, eager to learn, and always open to new challenges that help me grow both technically and professionally. 🚀
 - :gear: I’m currently working on DresyApp, startup that is designed to help owners train their dog.
 - 	:technologist: I’m currently learning .NET and Python
 
