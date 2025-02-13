@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hi! I'm a 4th-year student at the Faculty of Organizational Sciences with a growing interest in programming, particularly in backend technologies like .NET. I'm always eager to learn new things, adapt to new challenges, and open to all kinds of opportunities. 
 Organizational Sciences
-- :gear: I’m currently working on DresyApp, startup about Dog training app.
+- :gear: I’m currently working on DresyApp, startup that is designed to help owners train their dog.
 - 	:technologist: I’m currently learning .NET and Python
 
 
